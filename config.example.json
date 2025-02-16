@@ -1,0 +1,7 @@
+{
+  "llmProvider": "ollama",
+  "model": "deepseek-coder:latest",
+  "clientId": "",
+  "clientSecret": "",
+  "port": 3000
+}
